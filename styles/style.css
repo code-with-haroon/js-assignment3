@@ -1,0 +1,21 @@
+header,
+footer{
+    background-color: #1d3557;
+}
+
+main{
+    flex: 1 0 auto;
+    background-color: #e0fbfc;
+}
+.originalStringBox{
+    background-color: #1d3557;
+    color: white;
+}
+.button > .btn{
+    margin-bottom: 8px;
+    min-width: 45%;
+}
+.btn:last-child{
+    margin-bottom: 0px;
+}
+    
